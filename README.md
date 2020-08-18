@@ -4,8 +4,10 @@ This is our first JS-lesson repository
 
 List:
 
-* A
+- A
 
-* B
+- B
 
-* C
+- C
+
+- D
